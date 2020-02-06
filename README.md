@@ -6,7 +6,7 @@
 
 ## Instructions
 
-Open site with this Link => 
+Open site with this Link => https://art-abdulwadud.github.io/pixel-art-maker/
 
 Choose grid height which stands for numbers of cells from top to bottom
 
